@@ -2,8 +2,10 @@
 
 > **2026 NASA Space Apps Challenge**  
 > **Challenge Subject**: Earth Science / Software (Advanced)  
-> **Challenge Name**: Change Detection, Trend Analysis & Statistical Significance
-
+> **Challenge Name**: Be An Earth System Trend Detective!
+> **Live Demo Build**: [https://geo-iris-phi.vercel.app/](https://geo-iris-phi.vercel.app/)
+> 
+> 🚀 **Try GEOIRIS Live Now →** [geo-iris-phi.vercel.app](https://geo-iris-phi.vercel.app/)
 ---
 
 ## 🌍 Executive Summary
